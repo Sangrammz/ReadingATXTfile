@@ -1,0 +1,6 @@
+{
+  "Name": "ReadingATXTFile",
+  "ProjectType": "Process",
+  "Description": "Create a Bot to read a txt file from local drive",
+  "MainFile": "Main.xaml"
+}
